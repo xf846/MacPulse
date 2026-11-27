@@ -1,5 +1,7 @@
 # MacPulse — macOS 系统性能监视器
 
+GitHub 仓库：https://github.com/xf846/MacPulse
+
 原生 macOS 桌面应用（Swift 6 + SwiftUI），仪表盘实时显示 CPU / 内存 / 磁盘 / 网络 / 电池 / 系统负载 / GPU / 热状态 / S.M.A.R.T. / 进程 / AI 服务 / 媒体播放等参数，支持独立偏好设置窗口、高对比深浅主题、菜单栏读数自定义、进程详情、快照导出（文本 / CSV / PNG）、进程表交互与阈值告警历史。
 
 ## 界面设计
