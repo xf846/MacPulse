@@ -1,0 +1,21 @@
+# 构建产物
+build/
+*.app/
+*.dSYM/
+
+# 本地验证 / 截图 / 临时探针
+.build-test/
+*.png.bak
+*.log
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+*.swp
+*.swo
